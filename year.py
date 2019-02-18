@@ -13,5 +13,5 @@ if age< 18:
     print('minor')
 if age>= 18 and age<36:
     print('youth')
-if age>36:
+if age>=36:
     print('elder')
